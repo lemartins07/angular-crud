@@ -1,0 +1,17 @@
+table {
+  margin-top: 32px;
+}
+
+
+.edit {
+  margin-right: 8px;
+}
+
+i.edit  {
+  color: #c9cd26;  
+}
+
+
+i.delete {
+  color: #e35e6b
+}
